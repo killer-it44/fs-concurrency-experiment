@@ -1,0 +1,12 @@
+{
+  "name": "fs-concurrency-experiment",
+  "version": "1.0.0",
+  "description": "This was an experiment to check the behavior of the file system, especially in scenarios of highly concurrent access.",
+  "main": "experiment-validate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
